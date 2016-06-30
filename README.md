@@ -15,5 +15,7 @@ _get commands:_ do not select the iframe options and type the url of the get com
  
 * [marcellox98](https://github.com/marcellox98)
 * [wstam88](https://github.com/wstam88)
+
 ## License
-This project is licensed under the MIT license. See the [LICENSE]() file for more info.
+
+This project is licensed under the MIT license. See the [LICENSE](https://github.com/marcellox98/node-red-contrib-webtester/blob/master/LICENSE) file for more info.
