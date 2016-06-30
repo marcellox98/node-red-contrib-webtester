@@ -1,0 +1,29 @@
+{
+  "bugs": {
+    "url": "https://github.com/marcellox98/node-red-contrib-webtester/issues"
+  },
+  "dependencies": {},
+  "description": "a node that shows your website in node-red, easey for debuging",
+  "homepage": "https://github.com/marcellox98/node-red-contrib-webtester/issues",
+  "keywords": [
+    "test",
+    "debug",
+    "website",
+    "node-red",
+    "remote",
+    "content",
+    "display"
+  ],
+  "license": "Apache-2.0",
+  "name": "node-red-contrib-webtester",
+  "node-red": {
+    "nodes": {
+      "webtester": "webtester.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcellox98/node-red-contrib-webtester.git"
+  },
+  "version": "0.0.1"
+}
